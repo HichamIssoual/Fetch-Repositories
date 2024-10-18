@@ -131,6 +131,7 @@ body {
   }
   .my-repo .name-repo {
     word-break: break-all;
+    border-right: none;
   }
 }
 @media (min-width: 0px) and (max-width: 357px) {
